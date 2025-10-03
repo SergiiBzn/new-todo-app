@@ -3,8 +3,6 @@
 Dies ist eine einfache ToDo-Anwendung, die mit **React** entwickelt wurde.  
 Sie erlaubt es dem Benutzer, Aufgaben hinzuzufügen, zu filtern, als erledigt zu markieren und zu löschen. Alle Aufgaben werden im **localStorage** gespeichert, sodass sie auch nach dem Neuladen der Seite erhalten bleiben.
 
-### Link: https://sergiibzn.github.io/new-todo-app/
-
 ## 🚀 Funktionen
 
 - ✅ Neue Aufgaben hinzufügen  
@@ -27,3 +25,7 @@ npm install
 
 # Entwicklungsserver starten
 npm run dev
+```
+
+### Link: 
+https://sergiibzn.github.io/new-todo-app/
