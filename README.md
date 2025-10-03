@@ -27,5 +27,5 @@ npm install
 npm run dev
 ```
 
-### Link: 
+## Link: 
 https://sergiibzn.github.io/new-todo-app/
